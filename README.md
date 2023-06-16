@@ -46,11 +46,9 @@ O executável do jogo Pong está localizado na pasta "dist". Para acessá-lo, na
 
 ## 🚀 Linguagens
 
-Esse projeto foi desenvolvido com as seguintes Linguagens:
+Esse projeto foi desenvolvido com a seguinte linguagem:
 
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 
 ## 📚 Bibliotecas
 
