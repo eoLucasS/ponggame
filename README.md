@@ -23,14 +23,14 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
                                                                          \__|
 -->
 <h1 align="center">
-  Pong Game <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
+  Pong Game <img width="25px" src="https://raw.githubusercontent.com/eoLucasS/portfolio/main/assets/img/icon.svg"/>
 </h1>
 
 <br>
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1119387884894564473/image.png" alt="Resultado final do projeto">
-</div>
+<p align="center">
+  <img src="assets\resultado/preview.png" width="650" height="338">
+</p>
 
 <br>
 
@@ -42,7 +42,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 
 O executável do jogo Pong está localizado na pasta "dist". Para acessá-lo, navegue até o diretório onde você salvou o código do jogo e abra a pasta "dist". Lá você encontrará o arquivo executável do jogo, que pode ser compartilhado com seus amigos para que eles possam jogar sem a necessidade de ter o Python instalado. Divirta-se!
 
-- Preview: Pong\dist\Pong.exe
+- Preview: Pong\dist\PongGame.exe
 
 ## 🚀 Linguagens
 
@@ -50,12 +50,10 @@ Esse projeto foi desenvolvido com a seguinte linguagem:
 
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 
-## 📚 Bibliotecas
+## 📚 Bibliotecas e Ferramentas
 
-- [Google Fonts](https://fonts.google.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [Phosphor Icons](https://phosphoricons.com/)
-- [Form Submit](https://formsubmit.co/)
+- [Python](https://www.python.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## 🔗 Links
@@ -80,10 +78,10 @@ Esse projeto foi desenvolvido com a seguinte linguagem:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/eoLucasS">
-        <img src="https://cdn.discordapp.com/attachments/1049167666876776458/1049179325410312292/tdi.png" width="100px;" /><br>
+      <a href="https://www.linkedin.com/in/lucaslopesdasilva/">
+        <img src="https://avatars.githubusercontent.com/u/119815116?v=4" width="100px;" /><br>
         <sub>
-          <b>Lucas Lopes</b>
+          <b>Lucas Silva</b>
         </sub>
       </a>
     </td>
@@ -92,4 +90,4 @@ Esse projeto foi desenvolvido com a seguinte linguagem:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes</a> ☕</h3>
+<h3 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes da Silva</a> ☕</h3>
